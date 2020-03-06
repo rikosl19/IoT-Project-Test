@@ -12,7 +12,7 @@ const char* wifiName = "1234";
 const char* wifiPass = "";
 
 //Web Server address to read/write from 
-const char *host = "http://192.168.43.7/Server/Semester%204/Komputasi%20Awan/api.php";
+const char *host = "http://192.168.43.7/Server/Semester%204/Komputasi%20Awan/api.php"; //using phone hostpot ip
 
 void setup() {
    pinMode(LED1,OUTPUT);
